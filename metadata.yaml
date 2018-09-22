@@ -1,0 +1,25 @@
+_repo: Ships-at-Work_55476
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lee, Manning de V.
+    gutenberg_agent_id: '48360'
+    url: http://www.gutenberg.org/2009/agents/48360
+creator:
+  author:
+    agent_name: Folsom, Mary Elting
+    gutenberg_agent_id: '48359'
+    url: http://www.gutenberg.org/2009/agents/48359
+description: ''
+gutenberg_issued: '2017-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ships at Work
+url: http://www.gutenberg.org/ebooks/55476
