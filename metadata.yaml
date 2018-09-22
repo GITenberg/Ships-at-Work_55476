@@ -1,16 +1,21 @@
 _repo: Ships-at-Work_55476
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lee, Manning de V.
     gutenberg_agent_id: '48360'
     url: http://www.gutenberg.org/2009/agents/48360
+covers:
+- cover_type: archival
+  image_path: 55476-h/images/cover.jpg
 creator:
   author:
     agent_name: Folsom, Mary Elting
     gutenberg_agent_id: '48359'
     url: http://www.gutenberg.org/2009/agents/48359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55476#Ships-at-Work
 gutenberg_issued: '2017-09-02'
 gutenberg_type: Text
 identifiers:
